@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Java
 ### 👯 I’m looking to collaborate on Backend Development
-### 📫 How to reach me: mohammedizhaarulhaq@gmail.com
+### 📫Reachout at: mohammedizhaarulhaq@gmail.com
 ### 🔭 I’m currently working on React
 
 <!--
